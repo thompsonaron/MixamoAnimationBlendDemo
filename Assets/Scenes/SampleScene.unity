@@ -136,7 +136,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 652964665}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9c03d9d085871784d83ba53bbf932ed7, type: 3}
+  m_Script: {fileID: 11500000, guid: 10d465830e48e4e4a8166431eefab33c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &705507993
@@ -325,7 +325,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 73cb1bfc50043d4468fe696411cc34be, type: 2}
+      objectReference: {fileID: 9100000, guid: c6562ce8bffa8f7439957c47602b7401, type: 2}
     - target: {fileID: -6057140222963153312, guid: 06239fb7280569f4e8770f884e3d21f8,
         type: 3}
       propertyPath: m_ApplyRootMotion
